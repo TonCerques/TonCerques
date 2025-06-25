@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Front-End em evolução 🌎<br>Focado em sistemas sustentáveis 🌱 <br>Explorando Java e JavaScript  🍳<br>Criador por causas que renda dinheiro no próprio bolso 🤑<br>Sempre aprendendo e compartilhando 🤓<br><br>
+Desenvolvedor FullStack 🌎<br>Focado em especialização Full-Stack 🌱 <br>Explorando  e praticando React(JavaScript, HTML, CSS), PHP, Java e MYSQL  🍳 🤑<br>
 
 
 ## 🌐 Socials:
