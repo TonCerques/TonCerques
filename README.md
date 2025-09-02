@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 ↗ Desenvolvedor FullStack Jr<br>↗UI/UX Designer Web/Mobile<br>↗ Tech Leader Acadêmico em curso Técnico (Senac/BA)<br>↗ Especializado em Desenv. Front-End/Automatizações em Python
 
 
-## 🌐 Socials:
+## 🌐 Rede Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wellingtoncrq4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wellingtoncrq4@gmail.com) 
 
 # 💻 Tech Stack:
@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TonCerques&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
